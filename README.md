@@ -5,24 +5,24 @@ Este proyecto es un pequeño simulador de lanzamiento de 2 dados, se observa el 
 Al principio se muestra un mensaje de bienvenida para el usuario, y el programa pregunta si desea tirar los dados,
 si el usuario escribe NO, el simulador finalizará.
 
-![dados3](https://user-images.githubusercontent.com/108247794/204061270-05a1fb6f-ccb6-4b7b-935d-aedd48969649.png)
+![app1](https://github.com/darkcrow-dev/Lanzar-Dados/assets/108247794/ab8e884d-57eb-429e-b355-d54b48ebad0c)
 
-si el usuario escribe mal la selección, el simulador finalizará.
+si el usuario escribe mal la selección, el simulador mostrará un mensaje y pedirá que se ingrese una opción válida.
 
-![dados4](https://user-images.githubusercontent.com/108247794/204061304-a16a3e24-bb60-428d-b662-d9846ca343f3.png)
+![app3](https://github.com/darkcrow-dev/Lanzar-Dados/assets/108247794/affb0b45-7d75-4186-919d-6ca2017ee95e)
 
 si se escribe SI, el programa va a tirar los dados y se observarán los números obtenidos junto con las imagenes de los dados.
 
-![dados](https://user-images.githubusercontent.com/108247794/204061223-535c060c-f89c-4090-9da2-8a4869542f78.png)
+![app2](https://github.com/darkcrow-dev/Lanzar-Dados/assets/108247794/6406f43b-ee2e-4990-bf34-a170e5b3095f)
 
 El programa va a preguntar si desea volver a tirar los dados, si el usuario escribe NO, entonces el simulador finalizará.
 
-![dados2](https://user-images.githubusercontent.com/108247794/204061386-7e6bab1f-f107-4253-9b1b-dccdfdd7c0c9.png)
+![app4](https://github.com/darkcrow-dev/Lanzar-Dados/assets/108247794/758adfa6-d0f1-4ae1-95df-28ec4d62bb55)
 
-si el usuario escribe mal la selección, entonces el simulador finalizará.
+si el usuario escribe mal la selección, el simulador mostrará un mensaje y pedirá que se ingrese una opción válida.
 
-![dados5](https://user-images.githubusercontent.com/108247794/204061431-85153eab-62b2-47c1-9938-44269e7c5f2e.png)
+![app5](https://github.com/darkcrow-dev/Lanzar-Dados/assets/108247794/ff9c7aae-ffe9-45af-8de3-82ca193ce46f)
 
 si el usuario escribe SI, entonces se volverán a tirar los dados y se mostrarán los números obtenidos junto con las imagenes de los dados de nuevo.
 
-![dados1](https://user-images.githubusercontent.com/108247794/204061496-1ce586e5-97d1-413c-b283-bc8b11c55b4f.png)
+![app6](https://github.com/darkcrow-dev/Lanzar-Dados/assets/108247794/38809c0f-757b-4cac-b138-e133531e46b0)
