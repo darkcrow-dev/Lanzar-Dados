@@ -41,8 +41,8 @@ class Dados:
 
             }
 
-        print("Bienvenido/a al simulador de tiro de dados\n")
-        self.palabras = "Desea tirar los dados? Si/No: "
+        print("Bienvenido/a al simulador de lanzamiento de dados\n")
+        self.palabras = "Desea lanzar los dados? Si/No: "
 
     def jugar(self):
         opcionUsuario = input(self.palabras).upper()
@@ -60,7 +60,7 @@ class Dados:
         print(f"\nValores de dados lanzados \nDado 1: {dado1} \nDado 2: {dado2}")
         print("\n".join(self.dadoDibujos[dado1]))
         print("\n".join(self.dadoDibujos[dado2]))
-        self.palabras = "\nDesea volver a tirar los dados? Si/No: "
+        self.palabras = "\nDesea volver a lanzar los dados? Si/No: "
         return self.jugar()
 
 Dados().jugar()
